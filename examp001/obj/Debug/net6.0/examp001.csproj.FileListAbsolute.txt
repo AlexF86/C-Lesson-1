@@ -1,0 +1,15 @@
+E:\GeekBrains\С#\les\examp\examp001\bin\Debug\net6.0\examp001.exe
+E:\GeekBrains\С#\les\examp\examp001\bin\Debug\net6.0\examp001.deps.json
+E:\GeekBrains\С#\les\examp\examp001\bin\Debug\net6.0\examp001.runtimeconfig.json
+E:\GeekBrains\С#\les\examp\examp001\bin\Debug\net6.0\examp001.dll
+E:\GeekBrains\С#\les\examp\examp001\bin\Debug\net6.0\examp001.pdb
+E:\GeekBrains\С#\les\examp\examp001\obj\Debug\net6.0\examp001.csproj.AssemblyReference.cache
+E:\GeekBrains\С#\les\examp\examp001\obj\Debug\net6.0\examp001.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\С#\les\examp\examp001\obj\Debug\net6.0\examp001.AssemblyInfoInputs.cache
+E:\GeekBrains\С#\les\examp\examp001\obj\Debug\net6.0\examp001.AssemblyInfo.cs
+E:\GeekBrains\С#\les\examp\examp001\obj\Debug\net6.0\examp001.csproj.CoreCompileInputs.cache
+E:\GeekBrains\С#\les\examp\examp001\obj\Debug\net6.0\examp001.dll
+E:\GeekBrains\С#\les\examp\examp001\obj\Debug\net6.0\refint\examp001.dll
+E:\GeekBrains\С#\les\examp\examp001\obj\Debug\net6.0\examp001.pdb
+E:\GeekBrains\С#\les\examp\examp001\obj\Debug\net6.0\examp001.genruntimeconfig.cache
+E:\GeekBrains\С#\les\examp\examp001\obj\Debug\net6.0\ref\examp001.dll
